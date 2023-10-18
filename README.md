@@ -47,8 +47,11 @@ Sidebar
 
     Countries: Utilize geographical visualizations to understand the global reach of your business and its performance.
 It is described in the image Below:
+
 ![image](https://github.com/raunakdk/Business-Launchpad/assets/82759731/5e21be9d-0695-47b3-acd3-eef241fd638b)
 
+
+Manage
 The "Manage" section in BisDash is designed to help you efficiently organize and oversee various aspects of your business. Whether it's managing team members, user profiles, appointments, or notes, this section provides you with the tools you need to streamline your day-to-day operations.
 Profiles
 ![image](https://github.com/raunakdk/Business-Launchpad/assets/82759731/e4a75b17-89b4-4171-91ec-3233ff58290f)
