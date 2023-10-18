@@ -20,7 +20,33 @@ Features
 Here is the basic demonstration of the Project
 ![image](https://github.com/raunakdk/Business-Launchpad/assets/82759731/86a431ed-d3ff-4178-b1f4-3ec34a7183df)
 
-Manage
+Sidebar 
+    Data: The starting point for accessing essential data and analytics, helping you make informed decisions for your business.
+
+    Manage Team: Efficiently handle and oversee your team members, their roles, and permissions to ensure smooth operations.
+
+    My Connections: Keep track of your business network, including clients, partners, and associates, for improved relationship management.
+
+    Balances and Sales: Gain insights into financial performance, including balances and sales figures to monitor revenue and growth.
+
+    Profiles: Create and manage user profiles, assign roles, and customize permissions for your team members.
+
+    Dateview: A calendar-based view of events and appointments to help you stay organized and plan your business activities.
+
+    Notepad: A digital notepad for jotting down ideas, notes, and important information within BisDash.
+
+    Business Analytics: Access a suite of analytical tools and data representations to make data-driven decisions for your business.
+
+    Food Analytics: Specifically tailored for food-related businesses, this section provides insights into food sales and customer preferences.
+
+    Company Stats: Get an overview of key statistics related to your business, including revenue, sales, and growth trends.
+
+    Parcel Type: Categorize and analyze data related to different parcel types for more efficient logistics management.
+
+    Working Areas: Evaluate the geographical areas where your business operates to optimize resource allocation.
+
+    Countries: Utilize geographical visualizations to understand the global reach of your business and its performance.
+It is described in the image Below:
 ![image](https://github.com/raunakdk/Business-Launchpad/assets/82759731/5e21be9d-0695-47b3-acd3-eef241fd638b)
 
 The "Manage" section in BisDash is designed to help you efficiently organize and oversee various aspects of your business. Whether it's managing team members, user profiles, appointments, or notes, this section provides you with the tools you need to streamline your day-to-day operations.
